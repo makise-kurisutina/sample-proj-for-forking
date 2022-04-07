@@ -1,3 +1,0 @@
-commit 10 for rebase branch2
-
-this should create a merge conflict
